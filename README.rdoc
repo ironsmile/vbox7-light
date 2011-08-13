@@ -1,0 +1,1 @@
+This is a chrome extension. If you want to install it go to https://chrome.google.com/webstore/detail/blafdjjdlghhhkpnhklgaddajdjdbikb
