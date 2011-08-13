@@ -1,0 +1,22 @@
+.titlec {
+  
+}
+
+ul#similar_videos_data li {
+    width: 130px;
+    margin: 5px;
+    cursor: pointer;
+    float: left;
+}
+
+ul#similar_videos_data li img {
+    cursor: pointer;
+}
+
+ul#similar_videos_data
+{
+  margin-bottom: 1em;
+  padding-left : 0em;
+  margin-left: 0em;
+  list-style: none;
+}

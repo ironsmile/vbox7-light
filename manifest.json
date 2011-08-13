@@ -1,0 +1,19 @@
+{
+  "name": "Vbox7 Light",
+  "version": "0.3",
+
+  "description": "Removes all the things you don't read anyway from vbox7.com",
+
+  "content_scripts": [
+        {
+            "matches": ["http://vbox7.com/play*", "http://www.vbox7.com/play*"],
+            "js": ["jquery.js", "extension.js"]
+        }
+    ],
+  
+  "permissions": [
+    "http://vbox7.com/",
+    "http://www.vbox7.com/"
+  ]
+}
+
